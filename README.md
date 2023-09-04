@@ -12,19 +12,23 @@
 <h2> :medal_military: Certifications:</h2>
 
 - [Google Cybersecurity Certification](https://github.com/)
+- [ISC2 Certified in Cybersecurity](https://github.com/)
+- [Qualys Cloud VMDR](https://github.com/)
+- [Sales Engineering Certification](https://github.com/)
+- [Tech Sales Certification](https://github.com/)
 
 
 <h2>:handshake: Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="QuintonWest | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://x.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/quintonwest
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +41,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
